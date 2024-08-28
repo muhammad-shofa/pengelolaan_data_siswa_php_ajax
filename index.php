@@ -120,10 +120,6 @@
                             value="jurusan"></input>
                           <input type="button" name="filterAlamat" id="filterAlamat" class="btn btn-secondary"
                             value="alamat"></input>
-                          <p>
-                            <i>Disarankan memfilter 1 saja, karena jika lebih, maka yang terdepan akan lebih dulu
-                              difilter dan yang lain akan diabaikan. (Developernya pemalas)</i>
-                          </p>
                         </form>
 
                         <!-- <form id="formFilter" method="post">
