@@ -5,14 +5,12 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>Spica Admin</title>
+  <title>Student Management</title>
   <!-- base:css -->
   <link rel="stylesheet" href="vendors/mdi/css/materialdesignicons.min.css">
   <link rel="stylesheet" href="vendors/css/vendor.bundle.base.css">
   <!-- inject:css -->
   <link rel="stylesheet" href="css/style.css">
-  <!-- endinject -->
-  <link rel="shortcut icon" href="images/favicon.png" />
 </head>
 
 <body>
@@ -121,26 +119,6 @@
                           <input type="button" name="filterAlamat" id="filterAlamat" class="btn btn-secondary"
                             value="alamat"></input>
                         </form>
-
-                        <!-- <form id="formFilter" method="post">
-                          <div class="form-check">
-                            <input type="radio" name="filter" id="filterNama" class="form-check-input" value="nama">
-                            <label for="filterNama" class="form-check-label btn btn-secondary">Nama</label>
-                          </div>
-                          <div class="form-check">
-                            <input type="radio" name="filter" id="filterKelas" class="form-check-input" value="kelas">
-                            <label for="filterKelas" class="form-check-label btn btn-secondary">Kelas</label>
-                          </div>
-                          <div class="form-check">
-                            <input type="radio" name="filter" id="filterJurusan" class="form-check-input btn-secondary"
-                              value="jurusan">
-                            <label for="filterJurusan" class="form-check-label btn btn-secondary">Jurusan</label>
-                          </div>
-                          <div class="form-check">
-                            <input type="radio" name="filter" id="filterAlamat" class="form-check-input" value="alamat">
-                            <label for="filterAlamat" class="form-check-label btn btn-secondary">Alamat</label>
-                          </div>
-                        </form> -->
 
                       </div>
                       <div class="modal-footer">
